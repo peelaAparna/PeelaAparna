@@ -1,4 +1,4 @@
-![logo](https://github.com/peelaAparna/PeelaAparna/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/peelaAparna/PeelaAparna/blob/main/github-header-image.jpeg)
 <h1 align="center">Hi 👋, I'm Aparna Peela</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_1249867-5464.jpg">
